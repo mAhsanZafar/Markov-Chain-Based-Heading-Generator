@@ -78,5 +78,5 @@ def main(file_path):
     interactive_sentence_builder(transition_matrix)
 
 if __name__ == "__main__":
-    file_path = r"C:\\Users\\sa776\\Downloads\\abcnews-date-text.csv"
+    file_path = "abcnews-date-text.csv"
     main(file_path)
